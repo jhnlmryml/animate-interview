@@ -44,6 +44,6 @@ Please follow these exact steps to submit your completed assignment:
 1. **Fork this repository** to your personal GitHub account.
 2. Complete your code implementations within the `src/engine/` structure.
 3. **Add detailed inline comments** or a brief markdown summary explaining your architecture choices, how you calculated the joint vectors, and your strategy for rendering smooth animations.
-4. **Submit a link to your forked repository** directly to our hiring team on Upwork.
+4. **Submit a link to your forked repository** directly to us on onlinejobs.
 
 We look forward to seeing your creative approach!
